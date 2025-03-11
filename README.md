@@ -1,5 +1,5 @@
 
-## Data and code from: Preen oil composition in pied flycatchers: reproducibility and ontogeny
+## Data and code from: Preen oil composition in pied flycatchers: reproducibility and ontogeny (Chapter 4 from PhD thesis)
 
 ##### Laurence Jeanjean, Barbara A. Caspers, Tim Schmoll & Marc Gilles
 
