@@ -3,8 +3,8 @@
 
 ##### Laurence Jeanjean, Barbara A. Caspers, Tim Schmoll & Marc Gilles
 
-**Related article:** Gilles, M. (2024). The role of preen oil and body odour in birds (Doctoral dissertation, Dissertation, Bielefeld, Universität Bielefeld, 2024).
-DOI: <https://doi.org/10.4119/unibi/2993613>  
+**Related article:** Gilles, M. (2024). The role of preen oil and body odour in birds (Doctoral dissertation, Dissertation, Bielefeld, Universität Bielefeld, 2024), 88-114.
+<https://doi.org/10.4119/unibi/2993613>  
 
 ------------------------------------------------------------------------
 
